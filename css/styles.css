@@ -1,0 +1,11 @@
+.container{
+
+    border: solid;
+    border-width: 1px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+
+}   
+h1 {
+    color: blueviolet;
+} 
